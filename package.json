@@ -1,0 +1,15 @@
+{
+  "name": "jx-test-application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://dcherman:276ae1e27be80c7043c747265665af07d36e4755@github.com/dcherman-test-organization/jx-test-application.git",
+  "author": "Daniel Herman <dherman@factset.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lightship": "^3.0.1"
+  }
+}
